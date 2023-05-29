@@ -14,5 +14,7 @@
 
 ### Seasonality
 
-[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Time%20Series.ipynb)  
-[Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-trend.ipynb)
+[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Seasonality.ipynb)  
+[Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-seasonality.ipynb)
+
+
