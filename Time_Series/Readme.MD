@@ -9,7 +9,7 @@
 
 ### Trends 
 
-[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Trend.ipynb)
+[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Trend.ipynb)  
 [Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-trend.ipynb)
 
 ### Seasonality
