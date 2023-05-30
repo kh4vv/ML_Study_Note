@@ -28,4 +28,8 @@
 [Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Hybrid%20Models.ipynb)  
 [Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-hybrid-models.ipynb)
 
+### Forecasting With Machine Learning
+
+[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Forecasting%20With%20Machine%20Learning.ipynb)  
+[Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-forecasting-with-machine-learning.ipynb)  
 
