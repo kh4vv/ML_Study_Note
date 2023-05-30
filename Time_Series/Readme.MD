@@ -23,3 +23,9 @@
 [Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Time%20Series%20as%20Features.ipynb)  
 [Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-time-series-as-features.ipynb)  
 
+### Hybrid Models
+
+[Notebook](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/Hybrid%20Models.ipynb)  
+[Example](https://github.com/kh4vv/ML_Study_Note/blob/origin/Time_Series/exercise-hybrid-models.ipynb)
+
+
